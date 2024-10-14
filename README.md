@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Parker.
-## I'm a fourth year astrophysics student at the University of Toronto.
+## I'm a second year master's student in physics at the University of Montreal.
 
 - 👀 I’m interested in the early universe, dark matter, quantum mechanics and anything else in the universe.
 - 🌱 I’m currently learning about statistical/machine learning.
